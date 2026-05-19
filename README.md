@@ -1,4 +1,4 @@
-# 🚲 Citi Bike Data Analysis (2023 H1)
+# 🚲 Citi Bike Data Analysis
 
 ![Python Version](https://img.shields.io/badge/Python-3.10.11-blue.svg)
 ![SQLite](https://img.shields.io/badge/Database-SQLite-lightgrey.svg)
