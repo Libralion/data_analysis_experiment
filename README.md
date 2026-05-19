@@ -26,7 +26,6 @@
  ┣ 📜 data_cleaning.py         # Step 2: 数据合并、缺失值处理与 SQLite 入库
  ┣ 📜 data-visualization.py    # Step 3: 数据分析与可视化图表生成
  ┣ 📜 requirements.txt         # 项目依赖库清单
- ┣ 📜 citibike_analysis_report.md # (自动生成) 数据分析结论报告
  ┣ 📂 citibike_data/           # (自动生成) 原始 CSV 数据存储目录
  ┣ 📂 res_imgs/                # (自动生成) 数据可视化图表输出目录
  ┗ 🛢️ citibike.db              # (自动生成) 清洗后的 SQLite 数据库
