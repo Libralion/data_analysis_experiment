@@ -1,0 +1,14 @@
+# Python 虚拟环境
+.venv/
+
+# 下载的原始数据集
+citibike_data/
+
+# 运行生成的 SQLite 数据库
+citibike.db
+
+# 运行生成的可视化图表目录
+res_imgs/
+
+# 自动生成的 Markdown 报告
+citibike_analysis_report.md
